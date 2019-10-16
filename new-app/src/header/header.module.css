@@ -1,0 +1,25 @@
+.header{
+    width: 1700px;
+    height: 1080px;
+    position: relative;
+margin: 0 auto;
+background-image: url(https://images6.alphacoders.com/344/344881.jpg)
+
+}
+.hSpan{
+    color: #FFC700
+}
+.we{
+    font-size: 50px;
+    color: white;    
+    top: 100px;
+    right: 670px;
+    position: relative;
+}
+.weA{
+    font-size: 50px;
+    color: white;    
+    top: 100px;
+    right: 600px;
+    position: relative;
+}

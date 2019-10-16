@@ -1,0 +1,26 @@
+.navMenu{
+    float: left;
+    position: relative;
+    top: 100px;
+  left: 45px;  
+
+  margin: 10px;
+}
+ul {
+    list-style: none;
+    margin: 0; 
+    padding-left: 0;
+  }
+  a {
+    font-size: 25px;
+    color: #FFC700;
+      text-decoration: none; 
+}
+.a:hover{
+    color:white;
+      text-decoration: underline yellow; 
+}
+li{
+display: inline;
+margin-right: 10px;
+}

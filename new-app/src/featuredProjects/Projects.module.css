@@ -1,0 +1,67 @@
+.hFP{
+    color: black;
+    float: left;
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+}
+.F{
+    color: #FFC700;
+    font-size: 70px;
+}
+.P{
+    font-size: 70px;
+}
+.ulMenu{
+    float: left;
+    position: relative;
+}
+.navMenu{
+    float: left;
+}
+.secondLi{
+    position: relative;
+    top: 120px;
+    right: 90px;
+    
+}
+.secondA{
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+}
+.secondA:hover{
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline #F5BF00; 
+}
+.fotoGame{  
+  margin: 0 auto;
+  
+    
+    top: 150px;
+    position: relative;    
+    
+}
+img{
+    display: inline-flex; 
+    margin: 0;
+    padding: 1px;
+    transition: 1s; 
+    border-radius:15px ;
+}
+img:hover{
+    transform: scale(1.1);    
+    border-radius: 25px;
+    background-color: #000;
+	opacity: 0.9;
+	
+	
+}
+.LEFT{
+    margin: 0 auto;
+    position: relative;
+    right: 348px;;
+}
+

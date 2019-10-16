@@ -1,0 +1,77 @@
+.second{
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.s3{
+    float: left;
+    top: 50px;
+    left: 20px;
+    position: relative;
+    color:#727272;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+.spanA{
+    font-size: 50px;
+    padding: -5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.s1{
+    font-size: 70px;
+}
+.spanS{
+    color: #FFC700
+}
+.hText{
+    width: 300px;
+    height: 250px;   
+    float: left;
+    position: relative;
+    right: 250px;
+
+}
+.pText{
+    float: right;
+    position: relative;
+    left: 100px;
+    height: 400px;
+    width: 600px;
+}
+.secondSection{
+    bottom: 100px;
+    height: 280px;
+    width: 1400px;
+    display: inline-flex;
+    margin: 0 auto;    
+    position: relative;
+    right: 200px;
+}
+.leftDiv{
+    position: relative;
+height: 270px;
+width: 350px;
+float: left;
+}
+.centrDiv{
+    position: relative;
+    height: 270px;
+    width: 350px;
+    margin: 0 auto;
+}
+.rightDiv{
+    position: relative;
+    left: 60px;
+    height: 270px;
+    width: 350px;
+    float: right;
+}
+.hfo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+p{
+    font-size: 14px;
+}

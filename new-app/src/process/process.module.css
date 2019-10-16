@@ -1,0 +1,143 @@
+.Process{
+    width: 1600px;
+    height: 100px;
+    
+    position: relative;
+    margin: 0 auto;
+    top:200px;  
+}
+.hF{
+    color: black;
+    float: left;
+    font-size: 30px;
+    position: relative;
+    left: 30px;
+}
+.Fs{
+    color: #F5BF00;
+    font-size: 70px;
+}
+.Ps{
+    font-size: 70px;
+}
+.hLoren{
+    position: relative;
+    top: 150px;
+    width: 1600px;
+    margin: 0 auto;
+    right: 256px;
+    height: 20px;
+
+}
+h3{
+    font-size: 15px;
+    float: left;
+    position: relative;
+}
+.pLoren{
+    position: relative;
+    top: 150px;
+    width: 1100px;
+    height: 170px;
+    margin: 0 auto;
+    right: 256px; 
+    text-align: left;
+    
+}
+.p{
+   font-size: 10px;
+}
+.imgLeft{
+    position: relative;
+    float: left;
+    top: 200px;
+    left: 180px;
+
+}
+.hFs{
+    color: black;
+    float: right;
+    font-size: 30px;
+    position: relative;
+   right: 700px;
+    top: 150px;
+}
+.hLorenLeft{
+    color: black;
+    float: right;
+    font-size: 14px;
+    position: relative;
+   right: 300px;
+   height: 150px;
+   width: 400px;
+    top: 250px;
+}
+.pLorenLeft{
+    position: relative;
+    top: 350px;
+    width: 400px;
+    height: 170px;
+    margin: 0 auto;
+     left: 60px;
+    text-align: right;
+}
+
+
+.imgRight{
+    position: relative;
+    float: right;
+    top: 300px;
+    margin: 0 auto;
+    right: 300px;
+    
+}
+.hFm{
+    color: black;
+    float: right;
+    font-size: 30px;
+    position: relative;
+   right: 600px;
+    top: 300px;
+}
+.hLorenRight{
+    color: black;    
+    font-size: 14px;
+    position: relative;
+   float: left;   
+   height: 150px;
+   width: 400px;
+    top: 400px;
+}
+
+p{
+    display: inline;
+}
+.imgLeftTo{
+    position: relative;
+    float: left;
+    top: 460px;
+    left: 180px;
+
+}
+.hFsTo{
+    color: black;
+    float: right;
+    font-size: 30px;
+    position: relative;
+   right: 100px;
+    top: 430px;
+}
+.hLorenLeftTo{
+    color: black;
+    float: right;
+    font-size: 14px;
+    position: relative;
+   left:200px;
+   height: 150px;
+   width: 400px;
+    top: 530px;
+}
+
+.PsTo{
+    font-size: 70px;
+}
